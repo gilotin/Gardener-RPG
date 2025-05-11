@@ -1,4 +1,7 @@
 
+test
+
+
 The main system of the game is planting different magical plants in the cabin of the main character. 
 
 To be able to plant a specific plant the player will have to meet a specific criteria : 
