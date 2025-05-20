@@ -3,7 +3,7 @@ The main system of the game is planting different magical plants in the cabin of
 To be able to plant a specific plant the player will have to meet a specific criteria :
 
 -   [[Flowerpot]] :
-    -   Size;
+    -   Size; //
     -   Material of the pot;
 -   [[Soil]]:
     -   the type of the soil and some additional ingredients like fertilizer;
