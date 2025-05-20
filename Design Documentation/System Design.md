@@ -3,12 +3,13 @@
 A  game about cultivating plants, running shop and helping heroes to fight the monsters spread in around the world.
 
 ## Core Concepts
-- Plant growth system
-- Base/cabin upgrades
+- [[Base/cabin upgrades]]
 - Story progression
-- Crafting potions & alchemy
 - Hero quests
 - Resources
+- [[Inventory]]
+- [[Crafting and alchemy]]
+- [[Quests and Events]]
 
 
 
@@ -16,8 +17,7 @@ A  game about cultivating plants, running shop and helping heroes to fight the m
 - [[Plant Mechanics]]
 - [[Growth Conditions]]
 - [[Hero System]]
-- [[Quests and Events]]
-- [[Inventory and Crafting]]
 - [[UI and Player Feedback]]
-
+- [[Save system]]
+- Plant growth system
 ## Technical 
