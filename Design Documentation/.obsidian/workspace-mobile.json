@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design.md",
+                "file": "Plants, rarity and materials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System Design"
+              "title": "Plants, rarity and materials"
             }
           }
         ]
@@ -160,14 +160,15 @@
   },
   "active": "a39225868116e74c",
   "lastOpenFiles": [
-    "Inventory.md",
-    "Base/cabin upgrades.md",
-    "Crafting and alchemy.md",
     "System Design.md",
-    "Base",
-    "Hero System.md",
-    "Growth Conditions.md",
+    "Plants, rarity and materials.md",
+    "Base/cabin upgrades.md",
     "Plant Mechanics.md",
+    "Hero System.md",
+    "Inventory.md",
+    "Crafting and alchemy.md",
+    "Base",
+    "Growth Conditions.md",
     "UI and Player Feedback.md",
     "Special Tools and uqeipment.md",
     "Quests and Events.md",

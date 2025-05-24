@@ -10,13 +10,13 @@ A  game about cultivating plants, running shop and helping heroes to fight the m
 - [[Inventory]]
 - [[Crafting and alchemy]]
 - [[Quests and Events]]
+- [[Plants, rarity and materials]]
 
 
 
 ## Systems
 - [[Plant Mechanics]]
 - [[Growth Conditions]]
-- [[Hero System]]
 - [[UI and Player Feedback]]
 - [[Save system]]
 - Plant growth system
